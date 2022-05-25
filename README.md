@@ -2,7 +2,8 @@
 - 👀 I’m interested in tananted person for RRI Huawei 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... zinaida.kislitsyna@huawei.com
+
 
 Меня зовут Зинаида, я занимаюсь подбором разработчиков-исследователей в лабораторию Big Data & Clickhouse Huawei. 
 Собираем команду в Москве. 
