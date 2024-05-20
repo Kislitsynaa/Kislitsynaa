@@ -1,35 +1,21 @@
-- 👋 Hi, I’m @Kislitsynaa - HR Huawei
-- 👀 I’m interested in tananted person for RRI Huawei 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Kislitsynaa - Senior IT Recruiter Huawei
+- 👀 I’m interested in talanted person for RRI Huawei 
+- 🌱 I’m currently learning Clinical Psychology Master's Degree, MIP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... zinaida.kislitsyna@huawei.com
 
 
-Меня зовут Зинаида, я занимаюсь подбором разработчиков-исследователей в лабораторию Big Data & Clickhouse Huawei. 
-Собираем команду в Москве. Мы исседовательский институт и мы ищем людей, которые умеют думать и хотят развиваться и создавать новые инструменты. 
+Меня зовут Зинаида, я занимаюсь подбором разработчиков-исследователей в лабораторию Cloud Technology Huawei. 
+Укрепляю команды в Москве и Санкт-Петербурге. 
+Наш исседовательский институт Huawei ищет людей, которые хотят развиваться и создавать новые инструменты. 
 
-Для информации: Сейчас лабаратория держит в руках (или будет в ближайшее время) вот это все:
-https://www.huaweicloud.com/intl/en-us/product/mrs.html
-https://www.huaweicloud.com/intl/en-us/product/cs.html
-https://www.huaweicloud.com/intl/en-us/product/modelarts.html
+Сейчас лабаратория Cloud Technology Huawei создает множество продуктов:
+https://www.huaweicloud.com/intl/en-us/
 
-Это тоже самое, но под крышей СберКлауда
-https://sbercloud.ru/ru/products/mapreduce-service
-https://sbercloud.ru/ru/products/data-lake-insight-dli
+Команда Software Development Tools - примет Senior Fullstack Developer (Санкт-Петербург).
+Команда Moscow Industrial Software Cloud Technology Huawei - примет Ai Engineer, задачи связанны с Ai, ML и NLP.
+У нас так же всегда востребованны Backend Developer С++, Algoritms 
 
-В общем весь стек технологий Hadoop - spark,hive, HBase + ClickHouse
-
-Верхнеуровнево задача выглядит так:
-BigData distributed computing engine, streaming + AI, ultra-large-scale distributed engine, next-generation stream processing system, next-generation lake-warehouse.
-Языки - JAVA/SCALA/С++(для ClichHouse)
-Стек технологий для начала - Apache Hadoop/HBase/Ignite/HDFS/
-Основные направления на данный момент:
-- AI : Intent recognition
-- Optimization ML algorithms
-- Implementation distributed ML algorithms
-- ML on Time  Series data
-- AutoML (table data, time series data e.t.c.)
-- DL on table and time series data
 
 Best Regards,
 Zinaida Kislitsyna
